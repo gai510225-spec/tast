@@ -1,0 +1,12 @@
+{
+  "name": "my-cool-game",
+  "version": "1.0.0",
+  "description": "Simple guessing game",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
